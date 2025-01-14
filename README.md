@@ -3,6 +3,10 @@
 ## Hi , Iam Midhina  👋
  
 - 🔭 I’m currently working on Node Js,Express Js,MongoDB,Javascript
+🚀 Currently honing my skills in **Node.js**, **Express.js**, **MongoDB**, and **JavaScript**  
+🌱 Exploring new tools and technologies to enhance my development journey  
+💡 Passionate about creating efficient and scalable web applications  
+🔗 Check out my projects below and feel free to connect!
 
 <!--
 **midhinababu/midhinababu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
